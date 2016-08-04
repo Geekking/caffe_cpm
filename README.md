@@ -1,4 +1,4 @@
-# Add ![CPM Training code](https://github.com/shihenw/convolutional-pose-machines-release) to recently published Caffe
+# Add [CPM Training code](https://github.com/shihenw/convolutional-pose-machines-release) to recently published Caffe
 
 
 
